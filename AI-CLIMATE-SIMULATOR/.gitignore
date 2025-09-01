@@ -1,0 +1,20 @@
+result# Ignore virtual environment
+venv/
+Story Teller/venv/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore large datasets, logs
+*.log
+*.csv
+*.dat
+*.pth
+*.pt
+
+# Ignore IDE files
+.vscode/
+.idea/
